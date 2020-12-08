@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Minecraft server/plugin making
 - 🤔 I’m looking for help with Minecraft server/plugin developer
 - 💬 Ask me about me
-- 📫 How to reach me: discord()
+- 📫 How to reach me: discord(worldbiomusic#7075)
 - 😄 Pronouns: same
 - ⚡ Fun fact: I have slow brain
 -->
