@@ -1,4 +1,12 @@
-### Hi there 👋
+# Me
+- Minecraft player
+- love making Minecraft server and plugin
+- love Cycle System
+- love Java
+
+# Contact
+- `email`: worldbiomusic@gmail.com
+- `discord`: worldbiomusic#7075
 
 <!--
 **worldbiomusic/worldbiomusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
