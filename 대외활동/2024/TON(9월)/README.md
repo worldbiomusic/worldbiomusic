@@ -82,5 +82,5 @@ grammY.js를 써봤는데 다른 js 라이브러리보다 덜 알려졌는데 do
 ## 배운 단어
 - MAW(Monthly Active Wallet): 월 활성 사용자 수
 - TVL(Total Value Locked): 총 예치된 금액의 합
-- FOMO(Fear Of Missing Out): 놓치지 않기 위해
+- FOMO(Fear Of Missing Out): 놓치는 것에 대한 두려움을 의미하는 심리적 현상
 - stone.fi: staking과 liquidity mining 하는 DeFi 플랫폼
