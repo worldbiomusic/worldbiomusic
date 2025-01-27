@@ -34,9 +34,9 @@ JPA로 클라이언트 데이터를 **MySQL**로 저장하여 관리하였고, �
 
 > 개인정보 텍스트/음성 마스킹 (3명)
 
-구글 클라우드 인스턴스 구축과 접속, 웹 서버(백엔드와 API)를 맡았고, 음성 관련 작업(텍스트 추출, 마스킹, 자르기)을 맡았습니다.
+구글 클라우드 **인스턴스 구축**과 접속, 웹 서버(**백엔드와 API**)를 맡았고, 음성 관련 작업(텍스트 추출, 마스킹, 자르기)을 맡았습니다.
 
-Git과 Notion을 활용해서 코드와 문서를 체계적으로 관리하였고, 프로젝트 빌드시 디버깅 과정에서 발생하는 반복작업을 줄이기 위해 리눅스 bash script와 윈도우 batch파일로 작업을 자동화하였습니다
+Git과 Notion을 활용해서 **코드와 문서를 체계적으로 관리**하였고, 프로젝트 빌드시 디버깅 과정에서 발생하는 반복작업을 줄이기 위해 리눅스 bash script와 윈도우 batch파일로 **작업을 자동화**하였습니다
 
 
 ### 3. [CupOfDB](https://github.com/worldbiomusic/CupOfDB)
@@ -44,19 +44,13 @@ Git과 Notion을 활용해서 코드와 문서를 체계적으로 관리하였�
 
 > JDBC 래퍼 라이브러리
 
-커넥션 풀 관리와, AutoCloseable 인터페이스로 연결/상태/결과를 자동 마무리하고, query와 update를 위한 람다를 지원하도록 만들었습니다.
+**커넥션 풀 관리**와, AutoCloseable 인터페이스로 **연결/상태/결과를 자동 마무리**하고, query와 update를 위한 **람다를 지원**하도록 만들었습니다.
 
  
 </br>
 
-## 📒 공부 블로그 📒
-- [![자료구조](https://img.shields.io/badge/자료구조-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostView.naver?blogId=ljh3047063&logNo=222181267345&categoryNo=67&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1)
-- [![알고리즘](https://img.shields.io/badge/알고리즘-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=111)
-- [![운영체제](https://img.shields.io/badge/운영체제-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=69)
-- [![디자인패턴](https://img.shields.io/badge/디자인패턴-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=122)
-- 컴퓨터구조
-- [![컴퓨터공통](https://img.shields.io/badge/컴퓨터공통-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=20) 
-- [![자바공부](https://img.shields.io/badge/자바공부-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=16)
+## 📒 공부 블로그 📒 
+[![자료구조](https://img.shields.io/badge/자료구조-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostView.naver?blogId=ljh3047063&logNo=222181267345&categoryNo=67&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView&userTopListOpen=true&userTopListCount=5&userTopListManageOpen=false&userTopListCurrentPage=1) [![알고리즘](https://img.shields.io/badge/알고리즘-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=111) [![운영체제](https://img.shields.io/badge/운영체제-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=69) [![디자인패턴](https://img.shields.io/badge/디자인패턴-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=122) [![컴퓨터공통](https://img.shields.io/badge/컴퓨터공통-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=20) [![자바공부](https://img.shields.io/badge/자바공부-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/PostList.naver?blogId=ljh3047063&from=postList&categoryNo=16)
 
 
 
