@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=이정한&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=이정한&fontSize=70&animation=fadeIn)
 
 
 ## 🪄 기술 스택 🪄
