@@ -55,7 +55,7 @@ Git과 Notion을 활용해서 **코드와 문서를 체계적으로 관리**하�
 
 
 ## 🔔 연락책 🔔
-![email](https://img.shields.io/badge/worldbiomusic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![email](https://img.shields.io/badge/worldbiomusic@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://worldbiomusic@gmail.com)
 
 
 <!-- # library -->
